@@ -11,7 +11,7 @@ A apresentação aborda:
 * Listagem dos registros;
 * Atualização dos registros;
 * Exclusão dos registros;
-* Conexão com o banco de dados.
+* Conexão com o banco de dados;
 * Controle de acesso por sessão;
 * Estrutura dos arquivos PHP;
 
@@ -19,7 +19,7 @@ A apresentação aborda:
 
 A apresentação está disponível neste repositório em formato ODP:
 
-**`Apresentacao_CRUD_Amigos.odp`**
+**`apresentacao_crud_amigos.odp`**
 
 ## Tecnologias utilizadas
 
